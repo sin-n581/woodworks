@@ -1,0 +1,21 @@
+.features{
+    background-color: rgba(252, 250, 250, 0.774);
+}
+.navBtn{
+    border-width: 0px;
+}
+.texts{
+    display: flex;
+    justify-content: center;
+}
+
+.footer{
+    background-color: rgba(80, 79, 83, 0.39);
+}
+.white{
+    color:white
+}
+.views{
+    height: 60vh;
+    width: auto;
+}
